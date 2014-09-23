@@ -1,0 +1,30 @@
+{
+  "name": "angular-exist-in-array",
+  "version": "0.0.1",
+  "homepage": "https://github.com/xorvan/angular-exist-in-array",
+  "authors": [
+    "Ehsan Afzali <eafzali@xorvan.com>"
+  ],
+  "description": "Angular exist-in-array directive for two way binding a boolean model to existence of value in an specified array.",
+  "main": "angular-exist-in-array.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "angular",
+    "ng",
+    "array",
+    "binding",
+    "model",
+    "model-array",
+    "exist-in-array"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
